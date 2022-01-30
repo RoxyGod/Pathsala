@@ -22,9 +22,10 @@
   <a class="active" href="#">Dashboard</a>
   <a href="#">Course</a>
   <a href="#"> Video Materials</a>
-  <a href="#">Forum</a>
+  <a href="#">E-library</a>
   <a href="#">Quiz</a>
   <a href="#">Carrer Directory</a>
+  <a href="#">Review</a>
   <a href="#">logout</a>
 </div>
 
